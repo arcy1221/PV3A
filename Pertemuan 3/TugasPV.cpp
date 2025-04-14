@@ -1,19 +1,84 @@
-#include <iostream>
-#include <string>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Selamat Datang</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
 
-using namespace std;
+        .container {
+            width: 320px;
+            text-align: center;
+        }
 
-int main() {
-    // Mendeklarasikan variabel untuk menyimpan nama
-    string nama;
+        .title {
+            font-style: italic;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
 
-    // Meminta input nama dari pengguna
-    cout << "Masukkan nama Anda: ";
-    getline(cin, nama);
+        input {
+            width: 100%;
+            padding: 10px;
+            background-color: #D9D9D9;
+            border: none;
+            border-radius: 5px;
+            font-size: 14px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
-    // Menampilkan pesan selamat datang
-    cout << "Selamat datang, " << nama << "!" << endl;
+        button {
+            width: 80%;
+            padding: 10px;
+            background-color: #E6E6E6;
+            border: none;
+            border-radius: 5px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-bottom: 30px;
+        }
 
-    return 0;
-}
+        button:hover {
+            background-color: #ccc;
+        }
 
+        #hasil {
+            font-weight: bold;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="title">MAHESA DIFA RAMADHAN</div>
+
+        <input type="text" id="nama" placeholder="NAMA LENGKAP">
+        <br>
+        <button onclick="tampilkanPesan()">SUBMIT</button>
+
+        <p id="hasil"></p>
+    </div>
+
+    <script>
+        function tampilkanPesan() {
+            const nama = document.getElementById("nama").value.trim();
+            const hasil = document.getElementById("hasil");
+
+            if (nama === "") {
+                hasil.innerText = "Nama tidak boleh kosong!";
+            } else {
+                hasil.innerText = `SELAMAT DATANG, ( ${nama} )`;
+            }
+        }
+    </script>
+</body>
+</html>
