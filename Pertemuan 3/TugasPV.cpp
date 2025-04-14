@@ -76,7 +76,7 @@
             if (nama === "") {
                 hasil.innerText = "Nama tidak boleh kosong!";
             } else {
-                hasil.innerText = `SELAMAT DATANG, ( ${nama} )`;
+                hasil.innerText = `SELAMAT DATANG,  ${nama} `;
             }
         }
     </script>
