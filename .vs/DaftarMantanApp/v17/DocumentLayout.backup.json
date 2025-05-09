@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\DaftarMantanApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|c:\\xampp\\htdocs\\daftarmantanapp\\mantan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|solutionrelative:mantan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|c:\\xampp\\htdocs\\daftarmantanapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|c:\\xampp\\htdocs\\daftarmantanapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|c:\\xampp\\htdocs\\daftarmantanapp\\daftarmantanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C228F9D-1DEB-606E-1911-186CC3B34910}|DaftarMantanApp.csproj|solutionrelative:daftarmantanapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mantan.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DaftarMantanApp\\Mantan.cs",
+              "RelativeDocumentMoniker": "Mantan.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DaftarMantanApp\\Mantan.cs",
+              "RelativeToolTip": "Mantan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:25:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DaftarMantanApp\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DaftarMantanApp\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:13:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DaftarMantanApp\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\DaftarMantanApp\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:13:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DaftarMantanApp.csproj",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\DaftarMantanApp\\DaftarMantanApp.csproj",
+              "RelativeDocumentMoniker": "DaftarMantanApp.csproj",
+              "ToolTip": "C:\\xampp\\htdocs\\DaftarMantanApp\\DaftarMantanApp.csproj",
+              "RelativeToolTip": "DaftarMantanApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T11:13:05.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

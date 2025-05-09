@@ -1,0 +1,5 @@
+C:\xampp\htdocs\DaftarMantanApp\obj\Debug\net6.0-windows\DaftarMantanApp.csproj.AssemblyReference.cache
+C:\xampp\htdocs\DaftarMantanApp\obj\Debug\net6.0-windows\DaftarMantanApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\DaftarMantanApp\obj\Debug\net6.0-windows\DaftarMantanApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\DaftarMantanApp\obj\Debug\net6.0-windows\DaftarMantanApp.AssemblyInfo.cs
+C:\xampp\htdocs\DaftarMantanApp\obj\Debug\net6.0-windows\DaftarMantanApp.csproj.CoreCompileInputs.cache
